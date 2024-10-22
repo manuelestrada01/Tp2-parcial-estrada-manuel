@@ -1,7 +1,8 @@
 {
   "name": "tp2-parcial-estrada-manuel",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "src/index.js",
+  "type": "module",
   "scripts": {
     "start": "node.",
     "watch": "node --watch .",
